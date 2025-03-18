@@ -9,8 +9,7 @@
     "scripting"
   ],
   "host_permissions": [
-    "https://search.naver.com/*",
-    "https://api.allorigins.win/*"
+    "https://search.naver.com/*"
   ],
   "action": {
     "default_popup": "popup.html",
